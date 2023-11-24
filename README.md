@@ -1,4 +1,4 @@
-# Ocreeb12
+# [Ocreeb12](https://github.com/sb-ocr/ocreeb-12)
 
 Watch the build video ↓
 
